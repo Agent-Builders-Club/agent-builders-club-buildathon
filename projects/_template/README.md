@@ -52,10 +52,10 @@ What is rough, broken, missing, or hard-coded?
 
 If you had another day or week, what would you improve?
 
-## Sharing permission
+## Public sharing
 
-Choose one:
+This repository is public. Only submit code, screenshots, recordings, data, and links that your team is comfortable sharing publicly.
 
-- [ ] Keep this project private to the event group.
-- [ ] Organizers may share the project after the event with credit to the team.
-- [ ] Organizers may make the project public after confirming with the team.
+- [ ] This project is safe to share publicly as submitted.
+- [ ] We removed or replaced secrets, private data, and material we do not have permission to publish.
+- [ ] We understand that this repository and its project folders may be viewed, copied, or shared by others.

@@ -38,7 +38,6 @@
 | **A participant** | [`EVENT-GUIDE.md`](EVENT-GUIDE.md) |
 | **Looking for a prompt** | [`PROMPTS.md`](PROMPTS.md) |
 | **Preparing your demo** | [`DEMO-GUIDE.md`](DEMO-GUIDE.md) |
-| **Helping run the event** | [`ORGANIZER-RUNBOOK.md`](ORGANIZER-RUNBOOK.md) |
 | **Submitting a project** | [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`projects/_template`](projects/_template) |
 
 ## What this is
@@ -84,7 +83,6 @@ The event is intentionally friendly to rough work. Reduce scope before you add c
 ├── EVENT-GUIDE.md             # Participant guide and event format
 ├── PROMPTS.md                 # Prepared Build-a-thon prompts
 ├── DEMO-GUIDE.md              # Short demo format and preparation checklist
-├── ORGANIZER-RUNBOOK.md       # Lightweight organizer run of show
 ├── CONTRIBUTING.md            # Project submission rules
 └── projects/
     ├── README.md              # Project folder instructions and index
@@ -163,18 +161,16 @@ Projects will be added here after teams submit them and demo:
 |---|---|---|---|---|
 | _Add projects here after demos_ |  |  |  |  |
 
-## Privacy and safety
+## Public repository and safety
 
-This repository is private during the event so teams can work comfortably.
+This repository is public from the start of the event. Only commit work your team is comfortable sharing publicly.
 
 - Do not commit passwords, API keys, private keys, tokens, or credentials.
 - Use `.env.example` for variable names only; never commit a real `.env` file.
-- Do not add personal data, private customer information, or confidential work without permission.
+- Do not commit personal data, private customer information, confidential work, or anything your team does not have permission to share.
 - Do not use someone else’s code, images, or data without permission.
-- Do not share a team’s code, screenshots, recording, or participant information outside the event group without permission.
-- Every project README must record whether organizers may share the project later.
-
-Organizers may share selected projects after the event only when the team has agreed to that sharing level.
+- Assume project code, screenshots, recordings, and participant names may be visible to the public.
+- If your project is not ready to be public, keep the implementation local and submit a public-safe README, mockup, or demo summary instead.
 
 ## GitHub workflow
 
@@ -184,13 +180,13 @@ If you are comfortable with GitHub:
 2. Add your project folder.
 3. Commit your work.
 4. Open a pull request titled `Add: Project Name`.
-5. Ask an organizer for help if you get stuck.
+5. Ask someone at the event for help if you get stuck.
 
-If GitHub is unfamiliar, ask an organizer where to place your files. The goal is to preserve the work—not create a complicated workflow during the sprint.
+If GitHub is unfamiliar, ask someone at the event where to place your files. The goal is to preserve the work—not create a complicated workflow during the sprint.
 
 ## Recognition
 
-Organizers may give informal recognition for categories such as:
+The event may give informal recognition for categories such as:
 
 - Most useful
 - Most surprising

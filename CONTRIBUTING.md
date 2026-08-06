@@ -2,10 +2,12 @@
 
 Thanks for building with Agent Builders Club.
 
-## Before you submit
+## Public repository
+
+This repository is public from the start of the event. Only submit work your team is comfortable sharing publicly.
 
 - Remove secrets and private credentials.
-- Confirm that everyone listed on the project agrees to the submission.
+- Do not commit personal data, confidential work, or material you do not have permission to publish.
 - Add a README using the project template.
 - Include a screenshot, demo link, or short recording when useful.
 - Keep the project self-contained in its own folder.
@@ -37,4 +39,4 @@ If you know GitHub, open a pull request from your branch. If not, ask an organiz
 
 ## Privacy
 
-This repository is private during the event. Do not share project code, screenshots, or participant information outside the event group without permission from the people involved.
+This repository is public during the event. Do not commit project code, screenshots, participant information, or other material that your team is not comfortable sharing publicly.

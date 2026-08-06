@@ -44,6 +44,7 @@ body:
     attributes:
       label: Sharing permission
       options:
-        - label: Our team agrees that organizers may review this submission within the private event repository.
+        - label: Our team agrees that this project is safe to submit to a public repository.
           required: true
-        - label: Our team has discussed whether this project may be shared publicly later.
+        - label: We removed secrets, private data, and material we do not have permission to publish.
+          required: true
