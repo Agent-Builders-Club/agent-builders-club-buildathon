@@ -6,6 +6,13 @@ A private event repository for the Agent Builders Club Build-a-thon at The Coppe
 > **Venue:** The Copper Wall, 1137 Burton Hill Rd, Fort Worth, TX 76114  
 > **Luma:** [Register for the event](https://luma.com/o0jfobup)
 
+## Start here
+
+- [Event guide](EVENT-GUIDE.md) — how the Build-a-thon works
+- [Build prompts](PROMPTS.md) — choose or draw a prompt
+- [Demo guide](DEMO-GUIDE.md) — prepare the short demo
+- [Organizer runbook](ORGANIZER-RUNBOOK.md) — run the evening
+
 ## What this repository is for
 
 Teams will use this repository to preserve what they build during the event. Projects do not need to be polished. A rough prototype, mockup, working experiment, useful script, or documented failure is a valid submission.
