@@ -1,67 +1,212 @@
 # Agent Builders Club Build-a-thon
 
-A private event repository for the Agent Builders Club Build-a-thon at The Copper Wall in Fort Worth.
+<p align="center">
+  <strong>A practical AI build sprint for curious people, builders, and small teams.</strong>
+</p>
 
-> **Event:** Wednesday, August 19, 2026 · 6:30–9:00 PM  
-> **Venue:** The Copper Wall, 1137 Burton Hill Rd, Fort Worth, TX 76114  
-> **Luma:** [Register for the event](https://luma.com/o0jfobup)
+<p align="center">
+  Build something useful, strange, unfinished, or surprising—and leave with something you can show.
+</p>
+
+<p align="center">
+  <a href="https://luma.com/o0jfobup"><img src="https://img.shields.io/badge/RSVP-Luma-6f42c1?style=for-the-badge" alt="RSVP on Luma"></a>
+  <img src="https://img.shields.io/badge/Status-Event%20preparation-2ea44f?style=for-the-badge" alt="Event preparation status">
+  <img src="https://img.shields.io/badge/Teams-2%E2%80%934%20people-f59e0b?style=for-the-badge" alt="Teams of 2 to 4 people">
+  <img src="https://img.shields.io/badge/Format-In--person-111827?style=for-the-badge" alt="In-person event">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Agent-Builders-Club/agent-builders-club-buildathon/commits/main"><img src="https://img.shields.io/github/last-commit/Agent-Builders-Club/agent-builders-club-buildathon?style=flat-square" alt="Last commit"></a>
+  <a href="https://github.com/Agent-Builders-Club/agent-builders-club-buildathon/issues"><img src="https://img.shields.io/github/issues/Agent-Builders-Club/agent-builders-club-buildathon?style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/Agent-Builders-Club/agent-builders-club-buildathon/tree/main/projects"><img src="https://img.shields.io/badge/Projects-Submit%20your%20build-0ea5e9?style=flat-square" alt="Submit a project"></a>
+</p>
+
+## Event
+
+| | Details |
+|---|---|
+| **When** | Wednesday, August 19, 2026 · 6:30–9:00 PM Central Time |
+| **Where** | The Copper Wall, 1137 Burton Hill Rd, Fort Worth, TX 76114 |
+| **RSVP** | [Register on Luma](https://luma.com/o0jfobup) |
+| **Team size** | 2–4 people |
+| **Format** | Choose or draw a prompt, build with a team, then give a short demo |
 
 ## Start here
 
-- [Event guide](EVENT-GUIDE.md) — how the Build-a-thon works
-- [Build prompts](PROMPTS.md) — choose or draw a prompt
-- [Demo guide](DEMO-GUIDE.md) — prepare the short demo
-- [Organizer runbook](ORGANIZER-RUNBOOK.md) — run the evening
+| If you are… | Read this |
+|---|---|
+| **A participant** | [`EVENT-GUIDE.md`](EVENT-GUIDE.md) |
+| **Looking for a prompt** | [`PROMPTS.md`](PROMPTS.md) |
+| **Preparing your demo** | [`DEMO-GUIDE.md`](DEMO-GUIDE.md) |
+| **Helping run the event** | [`ORGANIZER-RUNBOOK.md`](ORGANIZER-RUNBOOK.md) |
+| **Submitting a project** | [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`projects/_template`](projects/_template) |
 
-## What this repository is for
+## What this is
 
-Teams will use this repository to preserve what they build during the event. Projects do not need to be polished. A rough prototype, mockup, working experiment, useful script, or documented failure is a valid submission.
+The Agent Builders Club Build-a-thon is a focused, accessible evening for making things with AI.
 
-The repository is private during the event so the group can work comfortably. Organizers may share selected projects afterward with the team’s permission.
+You do **not** need:
 
-## How to submit a project
+- A polished startup idea
+- Advanced engineering experience
+- A finished product
+- A large team
+- A perfect demo
 
-1. Copy [`projects/_template`](projects/_template) into `projects/your-project-name`.
-2. Replace the template README with your project details.
-3. Add your prototype, source files, screenshots, links, or demo notes inside that folder.
-4. Keep secrets out of the repository. Use `.env.example` for variable names only.
-5. Commit your work before demos begin.
-6. If your team is comfortable, open a pull request titled `Add: Project Name`. Otherwise, ask an organizer where to place your files.
+You can use code, no-code tools, AI agents, APIs, design tools, spreadsheets, or a combination. The important thing is to make a result that your team can explain and demonstrate.
 
-### Minimum submission
+A valid project might be:
 
-Every project should include:
+- A working prototype
+- A useful automation
+- A small tool
+- A compelling mockup
+- A research workflow
+- A new interface for an old problem
+- A documented experiment
+- A clear, honest failure that teaches the group something
 
-- A project name
-- Team member names or handles
+## How the evening works
+
+1. **Meet people and form teams** of 2–4.
+2. **Choose or draw a prompt** from the prepared prompt bank.
+3. **Swap prompts once** during the opening window, if your team wants to.
+4. **Build a small, demonstrable result** with your team.
+5. **Document the project** in its folder under [`projects/`](projects/).
+6. **Give a short demo** before the evening ends.
+
+The event is intentionally friendly to rough work. Reduce scope before you add complexity.
+
+## Repository structure
+
+```text
+.
+├── EVENT-GUIDE.md             # Participant guide and event format
+├── PROMPTS.md                 # Prepared Build-a-thon prompts
+├── DEMO-GUIDE.md              # Short demo format and preparation checklist
+├── ORGANIZER-RUNBOOK.md       # Lightweight organizer run of show
+├── CONTRIBUTING.md            # Project submission rules
+└── projects/
+    ├── README.md              # Project folder instructions and index
+    ├── _template/             # Copy this for a new project
+    └── your-project-name/     # One folder per team project
+```
+
+## Submit a project
+
+Create a project folder by copying the template:
+
+```bash
+cp -R projects/_template projects/your-project-name
+```
+
+Use a short, lowercase folder name with hyphens. For example:
+
+```text
+projects/local-business-helper/
+projects/meeting-memory/
+projects/chores-agent/
+```
+
+Your project README should include:
+
+- Project name
+- Team members or handles
 - The prompt you worked from
-- A short explanation of what you made
-- Instructions for viewing or running it, if applicable
-- Known limitations or unfinished parts
+- What you built
+- How to view or run it
+- Tools and services used
+- Current status
+- Known limitations
+- What you would build next
+- Sharing permission
+
+Add prototypes, screenshots, demo notes, links, and source files inside the same project folder when useful.
+
+## Demo expectations
+
+Each team should aim for a short, clear demo:
+
+1. **Problem:** Who is this for and what problem did you choose?
+2. **Build:** Show the main experience, workflow, or experiment.
+3. **Lesson:** What worked, surprised you, or failed?
+4. **Next step:** What would you build with more time?
+
+A live demo is great, but a screenshot, screen recording, mockup, or explanation is acceptable when the prototype is fragile. Be honest about what is real, mocked, unfinished, or broken.
+
+See [`DEMO-GUIDE.md`](DEMO-GUIDE.md) for the full format.
+
+## Prompt bank
+
+The prompts are broad enough for different experience levels and tools. Examples include:
+
+- Make a local business easier to choose.
+- Turn a messy task into a simple workflow.
+- Help someone prepare for an important day.
+- Make the internet less overwhelming.
+- Build for a person who is usually ignored by software.
+- Turn one piece of content into more useful things.
+- Make a better community tool.
+- Give a small organization an unfair advantage.
+- Build an agent that knows when it is uncertain.
+- Make something useful from public data.
+- Solve a problem you personally have.
+- Wild card.
+
+Read the complete list in [`PROMPTS.md`](PROMPTS.md).
 
 ## Project index
+
+Projects will be added here after teams submit them and demo:
 
 | Project | Team | Prompt | Status | Demo / Link |
 |---|---|---|---|---|
 | _Add projects here after demos_ |  |  |  |  |
 
-## Event format
+## Privacy and safety
 
-- Small teams of 2–4 people
-- A prepared set of build prompts
-- One prompt swap during the opening window
-- Focused build time
-- Short demos at the end
-- Informal recognition for standout projects
+This repository is private during the event so teams can work comfortably.
 
-## Repository guidelines
+- Do not commit passwords, API keys, private keys, tokens, or credentials.
+- Use `.env.example` for variable names only; never commit a real `.env` file.
+- Do not add personal data, private customer information, or confidential work without permission.
+- Do not use someone else’s code, images, or data without permission.
+- Do not share a team’s code, screenshots, recording, or participant information outside the event group without permission.
+- Every project README must record whether organizers may share the project later.
 
-- Do not commit passwords, API keys, private keys, tokens, or personal data.
-- Do not add someone’s code, images, or data without permission.
-- Keep dependencies and setup instructions simple.
-- Prefer a small, understandable prototype over a large unfinished codebase.
-- Document what works, what does not, and what you would do next.
+Organizers may share selected projects after the event only when the team has agreed to that sharing level.
+
+## GitHub workflow
+
+If you are comfortable with GitHub:
+
+1. Create a branch.
+2. Add your project folder.
+3. Commit your work.
+4. Open a pull request titled `Add: Project Name`.
+5. Ask an organizer for help if you get stuck.
+
+If GitHub is unfamiliar, ask an organizer where to place your files. The goal is to preserve the work—not create a complicated workflow during the sprint.
+
+## Recognition
+
+Organizers may give informal recognition for categories such as:
+
+- Most useful
+- Most surprising
+- Best use of AI
+- Best demo
+- Best documented failure
+- Most likely to become a real project
+
+Recognition is intended to celebrate different kinds of work. The most polished software is not automatically the best project.
 
 ## Questions
 
-Ask an event organizer in person or open an issue in this repository. This repo is maintained for the Agent Builders Club event team.
+Ask an organizer in person or [open an issue](https://github.com/Agent-Builders-Club/agent-builders-club-buildathon/issues) in this repository.
+
+## About Agent Builders Club
+
+[Agent Builders Club](https://agentbuildersclub.dev) is a DFW community for people building with AI—founders, developers, operators, creatives, curious beginners, and everyone in between.
+
+**Born in DFW. Built for the world.**
