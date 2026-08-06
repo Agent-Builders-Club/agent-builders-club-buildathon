@@ -1,0 +1,49 @@
+name: Project submission
+description: Add a completed or in-progress Build-a-thon project to the project index.
+title: "Add: "
+labels: [project-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form when your team is ready to add or update a project.
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      placeholder: Project name
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team members
+      placeholder: Names or handles
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: What prompt did your team draw or choose?
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What did you build?
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Demo or project link
+      placeholder: https://
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Sharing permission
+      options:
+        - label: Our team agrees that organizers may review this submission within the private event repository.
+          required: true
+        - label: Our team has discussed whether this project may be shared publicly later.
