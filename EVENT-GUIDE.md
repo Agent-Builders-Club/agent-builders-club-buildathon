@@ -65,18 +65,17 @@ Organizers will merge project pull requests and update the project index after d
 
 ## Exact event timeline
 
-The event is short, so we will use hard timeboxes. Organizers will give five-minute and one-minute warnings and move the group forward when time is up.
+The event opens at 6:30 PM, but the build starts at **7:00 PM sharp**. The target is a 90-minute build sprint. If there are more teams or demos need more room, we can run slightly past 9:00 PM rather than rush the final presentations.
 
 | Time | What happens |
 |---|---|
-| **6:30–6:40 PM** | Check in, grab a seat, and welcome. |
-| **6:40–6:50 PM** | Form teams of 2–4. Organizers help match anyone arriving solo. |
-| **6:50–7:00 PM** | Draw or choose a prompt. Each team may redraw once during this window. |
-| **7:00–8:15 PM** | Build sprint. Organizers circulate and help teams reduce scope. |
-| **8:15–8:25 PM** | Finish the project README, commit the work, open a PR, and prepare the demo backup. |
-| **8:25–8:30 PM** | Stop building. Organizers reset the room and lock the demo order. |
-| **8:30–8:57 PM** | Team demos and brief judge feedback. Each team gets a strict slot. |
-| **8:57–9:00 PM** | Recognitions, final takeaway, and close. |
+| **6:30–6:45 PM** | Check in, grab a seat, meet people, and form teams as arrivals come in. |
+| **6:45–6:55 PM** | Official welcome and finalize teams of 2–4. |
+| **6:55–7:00 PM** | Draw or choose a prompt. Each team may redraw once. |
+| **7:00–8:30 PM** | Build sprint. Organizers circulate and help teams reduce scope. |
+| **8:30–8:35 PM** | Stop building, open PRs, prepare demo backups, and lock the demo order. |
+| **8:35 PM onward** | Team demos and judge feedback. Target a 9:00 PM close; extend slightly if needed. |
+| **After demos** | Recognitions, final takeaway, and close. |
 
 ### Demo timebox
 
