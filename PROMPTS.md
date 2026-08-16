@@ -52,6 +52,17 @@ Build something you would actually use next week.
 
 Build something strange, delightful, ambitious, or difficult to explain in one sentence. Make the demo understandable.
 
+## Build sprint lens
+
+Design for a result your team can make visible during the 90-minute sprint:
+
+- One specific person or audience
+- One clear problem or opportunity
+- One main workflow or experience
+- One visible result someone can understand, try, or react to
+
+A focused prototype, mockup, sample-data workflow, or documented experiment is a strong complete outcome. Start with the simplest version that lets your team learn and demonstrate the idea, then add depth if time allows.
+
 ## Prompt swap
 
 During the opening window, teams will have the option to swap prompts once. You may keep your original prompt if your team already has momentum.
