@@ -72,5 +72,5 @@ During the opening window, teams will have the option to swap prompts once. You 
 - Keep the person or problem specific.
 - Make the result demonstrable.
 - Use real or clearly labeled sample data.
-- Do not handle secrets, private data, or high-stakes decisions carelessly.
+- Protect secrets, private data, and high-stakes situations with care.
 - A documented failure is better than an exaggerated claim.
