@@ -63,6 +63,29 @@ Organizers will merge project pull requests and update the project index after d
 - **Before demos:** Make sure your pull request is open and your demo backup is ready.
 - **Before the event ends:** Give your short demo and tell an organizer if your project needs an index update.
 
+## Exact event timeline
+
+The event is short, so we will use hard timeboxes. Organizers will give five-minute and one-minute warnings and move the group forward when time is up.
+
+| Time | What happens |
+|---|---|
+| **6:30–6:40 PM** | Check in, grab a seat, and welcome. |
+| **6:40–6:50 PM** | Form teams of 2–4. Organizers help match anyone arriving solo. |
+| **6:50–7:00 PM** | Draw or choose a prompt. Each team may redraw once during this window. |
+| **7:00–8:15 PM** | Build sprint. Organizers circulate and help teams reduce scope. |
+| **8:15–8:25 PM** | Finish the project README, commit the work, open a PR, and prepare the demo backup. |
+| **8:25–8:30 PM** | Stop building. Organizers reset the room and lock the demo order. |
+| **8:30–8:57 PM** | Team demos and brief judge feedback. Each team gets a strict slot. |
+| **8:57–9:00 PM** | Recognitions, final takeaway, and close. |
+
+### Demo timebox
+
+- **Up to 6 teams:** 3 minutes to demo + 1 minute for judge feedback.
+- **7–9 teams:** 2 minutes to demo + 1 minute for judge feedback.
+- The organizer will announce the final demo length after teams are counted.
+- Teams should show one main path—not every feature. A screenshot or recording is acceptable if the live demo is fragile.
+- A team that is not ready still gets its slot to explain the problem, what it tried, and what it learned.
+
 ## Ground rules
 
 - Be kind and make room for beginners.
