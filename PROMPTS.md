@@ -61,7 +61,7 @@ Design for a result your team can make visible during the 90-minute sprint:
 - One main workflow or experience
 - One visible result someone can understand, try, or react to
 
-A focused prototype, mockup, sample-data workflow, or documented experiment is a strong complete outcome. Start with the simplest version that lets your team learn and demonstrate the idea, then add depth if time allows.
+A focused prototype, mockup, sample-data workflow, or documented experiment is a strong complete outcome. Teams may use mock, pasted, provided, or fictional data, and mocked integrations or narrated walkthroughs are welcome. Start with the simplest version that lets your team learn and demonstrate the idea, then add depth if time allows.
 
 ## Prompt swap
 
