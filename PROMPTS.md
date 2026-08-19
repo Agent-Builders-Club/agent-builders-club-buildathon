@@ -1,150 +1,150 @@
 # Build Prompts
 
-Choose or draw one prompt. Your team may interpret it literally or take it somewhere unexpected.
+Choose or draw one prompt. Your team may interpret it literally or take it somewhere unexpected, but keep the user, situation, and visible result specific.
 
-The prompts are intentionally broad. The goal is to make a clear, testable thing—not to build a complete company.
+These are designed for a 90-minute sprint. Build the smallest demonstrable version: a prototype, mockup, sample-data workflow, or narrated experiment is enough. You do not need a production integration, paid API, login, deployment, or special hardware.
 
 ## Prompt bank
 
-### 1. Make a local business easier to choose
+### 1. Local business comparison card
 
-Build a tool that helps someone compare, understand, or choose a local business.
+Build a simple tool for someone choosing between three local restaurants. Given a pasted menu, reviews, or sample data, show a clear comparison and recommendation for one stated preference, such as vegetarian options, quiet atmosphere, or budget.
 
-### 2. Turn a messy task into a simple workflow
+### 2. Event signup-to-team sorter
 
-Find a recurring task people do manually and make it easier with an agent, form, automation, or small app.
+Build a tool for a first-time event organizer that turns a messy signup list into suggested teams of 2–4 people. Show the matching inputs and explain why each team was suggested. Use fictional data if needed.
 
-### 3. Help someone prepare for an important day
+### 3. Important-day preparation plan
 
-Build a planner, checklist, coach, or assistant for a real event, trip, appointment, deadline, or performance.
+Build an assistant for someone preparing for a job interview next week. Given the role, date, and available time, generate a realistic checklist with practice tasks, deadlines, and one final readiness review.
 
-### 4. Make the internet less overwhelming
+### 4. Research brief from a pile of links
 
-Build a tool that turns a large amount of information into a useful brief, decision, shortlist, or next action.
+Build a workflow for a busy operator who has 10 article links to review. Turn pasted links or sample notes into a one-page brief with key claims, supporting evidence, disagreements, and recommended next action.
 
-### 5. Build for a person who is usually ignored by software
+### 5. Accessible appointment preparation
 
-Choose a specific person or situation that mainstream tools handle poorly. Build something that helps.
+Build a preparation tool for a patient who finds medical appointments overwhelming. Given an appointment type and concerns, produce questions to ask, information to bring, and a short notes template. Do not give medical advice.
 
-### 6. Turn one piece of content into more useful things
+### 6. Video-to-actionable-notes workflow
 
-Start with a video, article, recording, image, or document. Create a workflow that extracts, transforms, or repurposes it.
+Build a tool for a person who cannot watch a 30-minute tutorial. Given a transcript or sample text, produce a timestamped summary, key steps, glossary, and a small practice task.
 
-### 7. Make a better community tool
+### 7. Community newcomer matcher
 
-Build something that helps a group discover people, share knowledge, organize an event, or stay connected.
+Build a tool for a newcomer attending a community meetup. Given interests, experience, and conversation comfort level, suggest three people or conversation paths from fictional attendee data and explain each suggestion.
 
-### 8. Give a small organization an unfair advantage
+### 8. Small nonprofit request tracker
 
-Build a practical tool for a nonprofit, local team, community group, or small business with limited time and resources.
+Build a lightweight workflow for a small nonprofit receiving help requests by email. Turn sample messages into categorized requests with urgency, missing information, owner, and next action.
 
-### 9. Build an agent that knows when it is uncertain
+### 9. Source-aware answer assistant
 
-Create an agent or workflow that shows its sources, asks for help, identifies missing information, or refuses to guess.
+Build an assistant for a team answering internal questions. Given a small set of source notes, answer one question while showing which source supports each claim and clearly labeling what is unknown.
 
-### 10. Make something useful from public data
+### 10. Public-data decision dashboard
 
-Choose a public dataset, feed, website, or API and turn it into a decision, alert, visualization, or simple experience.
+Build a simple dashboard for a city resident deciding when to visit a public place. Use a small sample dataset—such as weather, hours, wait times, or transit—to show a recommendation and the factors behind it.
 
-### 11. Solve a problem you personally have
+### 11. Personal weekly reset
 
-Build something you would actually use next week.
+Build a tool for someone with an overloaded task list. Given 15 sample tasks, produce a plan for the next three days with priorities, estimated effort, dependencies, and a clearly stated “not now” list.
 
-### 12. Make tonight easier for an event organizer
+### 12. Event-night control panel
 
-Build a small tool, workflow, or assistant that helps an event organizer welcome people, form teams, manage time, support demos, or capture what the group learns.
+Build a tool for an event organizer running tonight’s meetup. Show a single screen for attendee count, team formation, prompt assignment, timer status, demo order, and unresolved issues using sample data.
 
-### 13. Help someone make a difficult decision
+### 13. Compare two service options
 
-Build a guided comparison, question flow, or decision brief that helps a specific person choose between real options.
+Build a guided decision tool for someone choosing between two phone, insurance, software, or education plans. Ask for three priorities, compare the options, and explain the recommendation without pretending the answer is universal.
 
-### 14. Turn a recurring meeting into momentum
+### 14. Meeting notes to owner checklist
 
-Build a workflow that turns meeting notes, decisions, or recordings into owners, deadlines, follow-ups, or a useful recap.
+Build a workflow for a project lead who has messy meeting notes. Given sample notes, extract decisions, action items, owners, deadlines, and unresolved questions into a checklist that can be reviewed before sending.
 
-### 15. Make a confusing form easier to complete
+### 15. Form-filling coach
 
-Help a specific audience understand what a form is asking, prepare their answers, or spot missing information before submitting.
+Build a tool for a first-time grant applicant completing a confusing application. Given sample questions and the applicant’s rough notes, explain each question, identify missing details, and draft an answer for review.
 
-### 16. Help a newcomer feel less lost
+### 16. First-day orientation guide
 
-Build a guide, orientation tool, or first-day assistant for someone entering a new place, process, community, job, or activity.
+Build a guide for a new employee starting at a small company. Given a fictional handbook and first-week schedule, answer “where do I go, who do I ask, and what should I do first?” through a simple searchable experience.
 
-### 17. Make a handoff less fragile
+### 17. Handoff packet generator
 
-Build a tool or workflow that helps one person pass context, files, decisions, or next steps to another person without losing important details.
+Build a tool for a person going on vacation who needs to hand work to a teammate. Given sample project notes, produce a handoff packet with current status, links, risks, decisions, next actions, and “contact me only if” conditions.
 
-### 18. Find the next useful action in a pile of tasks
+### 18. Inbox triage board
 
-Turn a backlog, inbox, list, or set of notes into a focused and explainable next-action plan.
+Build a workflow for a freelancer with 20 sample inbox messages. Sort them into reply, schedule, delegate, archive, or urgent; draft one response; and show why each message received its category.
 
-### 19. Help someone learn by doing
+### 19. Beginner practice coach
 
-Build a small coach, practice loop, simulator, or feedback tool for a specific skill or beginner audience.
+Build a practice loop for someone learning public speaking. Given a short topic and a recording transcript or written attempt, provide one timed exercise, three specific feedback notes, and a next attempt plan.
 
-### 20. Make a service request easier to understand
+### 20. Better service request
 
-Help someone describe a need clearly, gather the right details, or understand what happens next after asking for help.
+Build a request form for a tenant reporting a maintenance issue. Help the tenant describe the problem, location, urgency, access constraints, and photos; then show the property manager a complete triage card.
 
-### 21. Turn a repeated question into a self-serve experience
+### 21. Repeated-question answer desk
 
-Build a simple answer, search, triage, or walkthrough tool for a specific group that keeps asking the same question.
+Build a self-serve help desk for a community that repeatedly asks “How do I submit a project?” Given five sample source answers, provide a direct answer, link to the source, and a fallback when the sources do not cover the question.
 
-### 22. Help a creative person get unstuck
+### 22. Creative brief from a vague idea
 
-Build a structured ideation, reference, remix, or feedback workflow that produces a useful next step—not just more inspiration.
+Build a tool for a small business owner who says “I need a social post.” Ask for audience, offer, channel, tone, and deadline, then produce a one-page creative brief and one draft for approval.
 
-### 23. Make a small dataset tell a story
+### 23. Spreadsheet story card
 
-Take a modest table of public, sample, or fictional data and turn it into an explanation, visual, alert, or decision aid.
+Build a visual summary for a team lead looking at a small sales or attendance spreadsheet. Show the three most important patterns, one surprising data point, and one decision the team should discuss.
 
-### 24. Help someone check whether a claim is trustworthy
+### 24. Claim-check worksheet
 
-Build a research or review workflow that separates evidence, uncertainty, assumptions, and open questions.
+Build a research assistant for a reader evaluating one online claim. Given a claim and three sample sources, separate direct evidence, interpretation, missing context, and confidence; do not simply label it true or false.
 
-### 25. Design a calmer way to handle interruptions
+### 25. Interruption parking lot
 
-Build a tool that helps a specific person capture, triage, defer, or resume interruptions without losing their place.
+Build a tool for a manager who is constantly interrupted during focused work. Let them capture an interruption in one sentence, classify urgency, schedule a revisit, and return to the original task with context intact.
 
-### 26. Make a routine more accessible
+### 26. Accessible daily routine
 
-Choose a routine that creates friction for a specific person and build a clearer, more flexible, or more supportive way through it.
+Build a visual routine planner for a person who has difficulty switching between tasks. Given six daily activities and two constraints, create a flexible sequence with estimated time, transition support, and an easy reschedule option.
 
-### 27. Turn a long process into a progress companion
+### 27. Permit or application progress tracker
 
-Build a small experience that helps someone understand where they are, what comes next, and what to do if they get stuck.
+Build a tracker for someone completing a multi-step application. Given a fictional process with eight steps, show current progress, required documents, next action, blockers, and what happens after submission.
 
-### 28. Help a team learn from what already happened
+### 28. Project retrospective from evidence
 
-Build a workflow that turns past projects, support requests, experiments, or mistakes into reusable lessons or guidance.
+Build a retrospective tool for a small team after a project. Given sample chat messages, notes, and delivery dates, produce what went well, what created friction, evidence for each theme, and two changes to try next time.
 
-### 29. Build a useful interface for an existing tool
+### 29. Safer interface for a complex tool
 
-Choose a tool people already use and create a clearer view, shortcut, dashboard, or assistant for one specific job.
+Build a focused front door for one confusing task inside a complex tool, such as creating a calendar event, filing an expense, or publishing a document. Show only the fields and guidance needed for that one task.
 
-### 30. Create a tiny public good
+### 30. Local resource finder
 
-Build a small, practical resource that helps a defined group navigate information, find support, participate, or make something better.
+Build a resource guide for one defined group in one defined situation—for example, a new parent looking for free weekend activities. Given a small sample directory, filter by constraints and show contact details, fit, and any information that still needs checking.
 
 ## Build sprint lens
 
-Design for a result your team can make visible during the 90-minute sprint:
+Before building, write down:
 
 - One specific person or audience
-- One clear problem or opportunity
-- One main workflow or experience
+- One concrete situation
+- One main workflow
 - One visible result someone can understand, try, or react to
 
-A focused prototype, mockup, sample-data workflow, or documented experiment is a strong complete outcome. Teams may use mock, pasted, provided, or fictional data, and mocked integrations or narrated walkthroughs are welcome. Start with the simplest version that lets your team learn and demonstrate the idea, then add depth if time allows.
+Sample or fictional data, mocked integrations, and narrated walkthroughs are welcome. Keep private data and secrets out of the project. A documented failure is better than an exaggerated claim.
 
 ## Prompt swap
 
-During the opening window, teams will have the option to swap prompts once. You may keep your original prompt if your team already has momentum.
+During the opening window, teams may swap prompts once. You may keep the original prompt if your team already has momentum.
 
 ## Prompt rules
 
-- Keep the person or problem specific.
-- Make the result demonstrable.
+- Keep the person, situation, and result specific.
+- Make one clear path demonstrable.
 - Use real or clearly labeled sample data.
-- Protect secrets, private data, and high-stakes situations with care.
-- A documented failure is better than an exaggerated claim.
+- Do not build a high-stakes decision-maker; build a preparation, organization, or review aid instead.
+- Protect secrets, private data, and personal information.
