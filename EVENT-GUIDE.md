@@ -40,7 +40,7 @@ A good result is something your team can show clearly:
 
 ## Event-day repository workflow
 
-The repository will become public on the morning of the event. Only submit work your whole team is comfortable sharing publicly.
+This repository is public for the event. Only submit work your whole team is comfortable sharing publicly.
 
 1. Create a branch from `main`.
 2. Create a folder under [`projects/`](projects/) using a short lowercase name with hyphens.
@@ -56,7 +56,7 @@ Organizers will merge project pull requests and update the project index after d
 
 ## Day-of timing
 
-- **9:00 AM:** The repository is made public. Before then, the prompt bank is intentionally not published.
+- **Before the event:** Read the public guide, prompt bank, and demo guide so your team can arrive ready to build.
 - **6:30 PM:** Arrive, meet people, and form teams.
 - **Opening window:** Choose or draw a prompt. Teams may swap prompts once.
 - **During the build:** Create a branch, document the project, and open a pull request when ready.

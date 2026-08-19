@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://luma.com/o0jfobup"><img src="https://img.shields.io/badge/RSVP-Luma-6f42c1?style=for-the-badge" alt="RSVP on Luma"></a>
-  <img src="https://img.shields.io/badge/Status-Event%20preparation-2ea44f?style=for-the-badge" alt="Event preparation status">
+  <img src="https://img.shields.io/badge/Status-Live%20for%20participants-2ea44f?style=for-the-badge" alt="Live for participants">
   <img src="https://img.shields.io/badge/Teams-2%E2%80%934%20people-f59e0b?style=for-the-badge" alt="Teams of 2 to 4 people">
   <img src="https://img.shields.io/badge/Format-In--person-111827?style=for-the-badge" alt="In-person event">
 </p>
@@ -149,7 +149,7 @@ The prompts are broad enough for different experience levels and tools. Examples
 - Build an agent that knows when it is uncertain.
 - Make something useful from public data.
 - Solve a problem you personally have.
-- Wild card.
+- Make tonight easier for an event organizer.
 
 Read the complete list in [`PROMPTS.md`](PROMPTS.md).
 

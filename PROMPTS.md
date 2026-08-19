@@ -48,9 +48,9 @@ Choose a public dataset, feed, website, or API and turn it into a decision, aler
 
 Build something you would actually use next week.
 
-## 12. Wild card
+## 12. Make tonight easier for an event organizer
 
-Build something strange, delightful, ambitious, or difficult to explain in one sentence. Make the demo understandable.
+Build a small tool, workflow, or assistant that helps an event organizer welcome people, form teams, manage time, support demos, or capture what the group learns.
 
 ## Build sprint lens
 
