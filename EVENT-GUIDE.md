@@ -12,7 +12,7 @@ Welcome. This is a friendly, practical AI build sprint. You do not need a polish
 ## How it works
 
 1. Join a team of 2–4 people.
-2. Choose or draw a prompt.
+2. Choose or draw one of the 30 prepared prompts.
 3. Build with your team using whatever tools make sense.
 4. Swap prompts once during the opening window.
 5. Make something you can explain or demonstrate.

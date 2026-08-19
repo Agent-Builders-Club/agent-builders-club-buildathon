@@ -136,22 +136,9 @@ See [`DEMO-GUIDE.md`](DEMO-GUIDE.md) for the full format.
 
 ## Prompt bank
 
-The prompts are broad enough for different experience levels and tools. Examples include:
+The prompt bank contains **30 broad, beginner-friendly prompts** designed for a 90-minute build sprint. They cover practical workflows, community tools, research, accessibility, creative work, public data, and personal problems.
 
-- Make a local business easier to choose.
-- Turn a messy task into a simple workflow.
-- Help someone prepare for an important day.
-- Make the internet less overwhelming.
-- Build for a person who is usually ignored by software.
-- Turn one piece of content into more useful things.
-- Make a better community tool.
-- Give a small organization an unfair advantage.
-- Build an agent that knows when it is uncertain.
-- Make something useful from public data.
-- Solve a problem you personally have.
-- Make tonight easier for an event organizer.
-
-Read the complete list in [`PROMPTS.md`](PROMPTS.md).
+Read the complete list in [`PROMPTS.md`](PROMPTS.md). Teams may interpret a prompt unexpectedly and may swap once during the opening window.
 
 ## Project index
 
